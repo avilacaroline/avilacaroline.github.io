@@ -1,0 +1,18 @@
+.card-project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    box-shadow: 2px 2px 2px #fff;
+    background-color: #B537F2;
+    width: 285px;
+    height: 285px;
+}
+
+.card-img{
+    filter: grayscale(1);
+}
+
+.card-img:hover{
+    filter: none;
+}

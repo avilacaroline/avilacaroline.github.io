@@ -2,9 +2,13 @@
     background-color: #000;
     padding-top: 10px;
     padding-bottom: 80px;
-    border-bottom: 5 solid #03e9f4;
+    border-bottom: 2px solid #B537F2;
 }
 
 .main-section .main-title{
     margin-bottom: 60px;
+}
+
+.main-section.-project{
+  
 }
