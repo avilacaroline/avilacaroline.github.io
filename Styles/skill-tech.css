@@ -1,0 +1,25 @@
+.skill-tech{
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+}
+
+.skill-tech .icon{
+    filter: grayscale(1);
+    margin-right: 25px;
+    width: 90px;
+}
+
+.skill-tech .icon:hover{
+    filter: none;
+}
+
+.skill-tech .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.skill-tech .title{
+    margin-bottom: 20px;
+}
