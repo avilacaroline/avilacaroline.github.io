@@ -1,0 +1,11 @@
+.main-box{
+    display: inline-block;
+    background-color: #000;
+    padding: 45px 50px;
+    box-shadow: 3px 3px 2px #FE17A2;
+    text-align: center;
+}
+
+.main-box .main-title{
+    margin-bottom: 5px;
+}
