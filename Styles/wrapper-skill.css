@@ -10,6 +10,7 @@
 .wrapper-skill .skill-tech{
     width: 430px;
     margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 .wrapper-skill .skill-tech:nth-child(odd){
