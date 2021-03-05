@@ -1,0 +1,18 @@
+body {
+    color: #fff;
+    font-family: 'Poppins', sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    font-weight: bold;
+}
+
+.main-header {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header .picture-header{
+    width: 60px;
+    height: 60px;
+    padding: 5px 10px;
+}
