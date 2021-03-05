@@ -1,0 +1,22 @@
+.main-banner{
+    background-image: url('../Images/img-banner.png');
+    height: 600px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #03e9f4;;
+}
+
+.main-banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    padding-top: 100px;
+    padding-left: 90px;
+}
+
+.main-banner .main-box {
+    margin-bottom: 30px;
+}
+
+.main-banner .navigation {
+   margin-left: 50px;
+}
