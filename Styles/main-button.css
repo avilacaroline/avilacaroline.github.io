@@ -27,3 +27,6 @@
     transition-delay: 200ms;
 } 
 
+.main-button.-banner{
+    margin-left: 80px;
+}
